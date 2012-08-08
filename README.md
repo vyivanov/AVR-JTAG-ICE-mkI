@@ -1,5 +1,7 @@
 ## Atmel JTAG ICE mkI clone ##
 
+![](https://dl.dropbox.com/u/14947871/pics/projects/AVR-JTAG-ICE-mkI-clone.JPG)
+
 ### Description ###
 
 This device is a simple implementation of [Atmel JTAG ICE](http://www.atmel.com/Images/doc2475.pdf) clone. [Original source](http://pol-sem.narod.ru/AVRminiICE/jtag.htm).
