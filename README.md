@@ -1,6 +1,6 @@
 ## Atmel JTAG ICE mkI clone ##
 
-![](https://dl.dropbox.com/u/14947871/pics/projects/AVR-JTAG-ICE-mkI-clone.JPG)
+![](https://dl.dropbox.com/u/14947871/pics/github/projects/AVR-JTAG-ICE-mkI-clone.JPG)
 
 ### Description ###
 
